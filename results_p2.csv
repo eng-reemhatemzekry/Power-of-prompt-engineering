@@ -1,0 +1,101 @@
+﻿id,question,language,route,p2
+1,What types of accounts do you offer?,english,faq,faq
+2,Was the annual card maintenance fee charged to me?,english,customer,customer
+3,ما هي خطوات فتح حساب توفير؟,arabic,faq,faq
+4,Has my card been activated?,english,customer,customer
+5,هل بطاقتي اتفعلت؟,arabic,customer,customer
+6,What is my account's IBAN?,english,customer,customer
+7,I want to see my statement for the last month,english,customer,customer
+8,كيف يمكنني تغيير رقم الهاتف المسجل لدى البنك؟,arabic,faq,customer
+9,عايز اشوف كشف حسابي لآخر شهر,arabic,customer,customer
+10,ما هي المستندات المطلوبة لفتح حساب جاري؟,arabic,faq,faq
+11,How much is in my checking account right now?,english,customer,customer
+12,عايز اعرف الحد الائتماني لبطاقتي,arabic,customer,customer
+13,What interest rates do you offer on deposits?,english,faq,faq
+14,How much is the outstanding balance on my credit card?,english,customer,customer
+15,ما هي طرق سداد القرض المتاحة؟,arabic,faq,faq
+16,ما هي مواعيد عمل خدمة العملاء؟,arabic,faq,faq
+17,ما هي مدة تنفيذ التحويل البنكي بين البنوك؟,arabic,faq,faq
+18,How long does an interbank transfer take?,english,faq,faq
+19,What documents do I need to open a checking account?,english,faq,faq
+20,I want to know my credit card limit,english,customer,customer
+21,What address is registered on my account?,english,customer,customer
+22,هل يمكن زيادة الحد الائتماني للبطاقة وما هي الشروط؟,arabic,faq,customer
+23,هل وصل راتبي النهاردة؟,arabic,customer,customer
+24,ايه الرسوم اللي اتخصمت من حسابي الشهر ده؟,arabic,customer,customer
+25,How do I report a lost card?,english,faq,customer
+26,What is the maximum daily transfer limit on the app?,english,faq,faq
+27,امتى موعد القسط القادم بتاعي؟,arabic,customer,customer
+28,هل توجد رسوم على الحساب الجاري؟,arabic,faq,faq
+29,هل تم خصم قسط القرض من حسابي الشهر ده؟,arabic,customer,customer
+30,ما هي أسعار الفائدة على الودائع لديكم؟,arabic,faq,faq
+31,ايه تاريخ انتهاء بطاقتي؟,arabic,customer,customer
+32,How much of my loan is left to pay?,english,customer,customer
+33,Can I open a foreign currency account?,english,faq,faq
+34,ايه حالة طلب القرض اللي قدمته؟,arabic,customer,customer
+35,How do I use contactless payment?,english,faq,faq
+36,ما هي شروط الحصول على شهادة ادخار؟,arabic,faq,faq
+37,ما هي شروط الحصول على قرض شخصي؟,arabic,faq,faq
+38,What is the fee for issuing a new credit card?,english,faq,faq
+39,What are the last five transactions on my account?,english,customer,customer
+40,What are the customer service working hours?,english,faq,faq
+41,I want to see the card transactions I made last week,english,customer,customer
+42,ايه آخر خمس عمليات على حسابي؟,arabic,customer,customer
+43,ايه اخر تحويل دخل حسابي؟,arabic,customer,customer
+44,What is the procedure to close an account?,english,faq,faq
+45,Has my salary arrived today?,english,customer,customer
+46,What was the last transfer into my account?,english,customer,customer
+47,How can I change the phone number registered with the bank?,english,faq,customer
+48,What is the available balance in my savings account?,english,customer,customer
+49,كيف يمكنني إعادة تعيين كلمة مرور الخدمات المصرفية عبر الإنترنت؟,arabic,faq,faq
+50,What types of debit cards do you offer?,english,faq,faq
+51,ايه الرصيد المتاح في حساب التوفير بتاعي؟,arabic,customer,customer
+52,ما هو الحد الأقصى للتحويل اليومي عبر التطبيق؟,arabic,faq,faq
+53,What are the requirements for a savings certificate?,english,faq,faq
+54,ايه رقم الآيبان الخاص بحسابي؟,arabic,customer,customer
+55,ايه رقم حسابي؟,arabic,customer,customer
+56,ما هي الحدود اليومية للسحب من أجهزة الصراف الآلي؟,arabic,faq,faq
+57,كم رصيد حسابي الجاري دلوقتي؟,arabic,customer,customer
+58,ما هي رسوم إصدار بطاقة ائتمان جديدة؟,arabic,faq,faq
+59,هل تم تحويل المبلغ اللي بعتّه امبارح؟,arabic,customer,customer
+60,"Can a card's credit limit be increased, and what are the conditions?",english,faq,faq
+61,كام اجمالي المبلغ اللي حولته الشهر ده؟,arabic,customer,customer
+62,What documents are required to apply for a car loan?,english,faq,faq
+63,ايه العنوان المسجل في حسابي؟,arabic,customer,customer
+64,What fees were deducted from my account this month?,english,customer,customer
+65,ايه تاريخ استحقاق الوديعة بتاعتي؟,arabic,customer,customer
+66,What are the requirements for a personal loan?,english,faq,faq
+67,كام باقي من مبلغ القرض بتاعي؟,arabic,customer,customer
+68,كيف يمكنني الإبلاغ عن بطاقة مفقودة؟,arabic,faq,customer
+69,What phone number is registered on my account?,english,customer,customer
+70,Are there fees on a checking account?,english,faq,faq
+71,What are the daily ATM withdrawal limits?,english,faq,faq
+72,When is my next installment due?,english,customer,customer
+73,هل اترفضت عملية الشراء اللي عملتها بالبطاقة النهاردة؟,arabic,customer,customer
+74,عايز اشوف المعاملات اللي عملتها بالبطاقة الأسبوع اللي فات,arabic,customer,customer
+75,ما هي المستندات المطلوبة للتقديم على قرض سيارة؟,arabic,faq,faq
+76,What is the total amount I transferred this month?,english,customer,customer
+77,Is mobile payment available?,english,faq,faq
+78,كام المبلغ المستحق على بطاقتي الائتمانية؟,arabic,customer,customer
+79,ما هي الإجراءات المطلوبة لإغلاق حساب؟,arabic,faq,faq
+80,Was the card purchase I made today declined?,english,customer,customer
+81,How can I reset my online banking password?,english,faq,customer
+82,هل يمكنني فتح حساب بالعملة الأجنبية؟,arabic,faq,faq
+83,Did the transfer I sent yesterday go through?,english,customer,customer
+84,What is the status of the loan application I submitted?,english,customer,customer
+85,ما هي أنواع بطاقات الخصم المتاحة لديكم؟,arabic,faq,faq
+86,هل اتخصم مني رسوم الصيانة السنوية للبطاقة؟,arabic,customer,customer
+87,Was my loan installment deducted this month?,english,customer,customer
+88,كيف أقوم بتفعيل الخدمات المصرفية عبر الإنترنت؟,arabic,faq,faq
+89,When does my card expire?,english,customer,customer
+90,What are the fees for international transfers?,english,faq,faq
+91,What loan repayment methods are available?,english,faq,faq
+92,هل تتوفر خدمة الدفع عبر الهاتف المحمول؟,arabic,faq,faq
+93,ما هي رسوم التحويل إلى الخارج؟,arabic,faq,faq
+94,ما هي أنواع الحسابات المتوفرة لديكم؟,arabic,faq,faq
+95,What is my account number?,english,customer,customer
+96,ايه رقم الهاتف المسجل في حسابي؟,arabic,customer,customer
+97,What are the steps to open a savings account?,english,faq,faq
+98,How do I activate online banking?,english,faq,faq
+99,كيف أستخدم خدمة الدفع بدون تلامس؟,arabic,faq,faq
+100,What is the maturity date of my deposit?,english,customer,customer
